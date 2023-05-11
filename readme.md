@@ -1,6 +1,7 @@
-// install the dependencies
+# install the dependencies
     -- pnpm i
     -- pnpm i ts-code
     -- pnpm i axios
-// run 
+    
+# run 
     -- pnpm start
